@@ -2,6 +2,14 @@
 
 A comprehensive TypeScript CLI tool that provides complete access to the Vercel REST API. This plugin enables full deployment management, project administration, and infrastructure control through a unified command-line interface.
 
+## 🦀 Deploy with PinchKit
+
+Want this running in 2 minutes? [PinchKit](https://pinchkit.ai) gives you a managed OpenClaw instance with this plugin pre-installed. No server setup, no config headaches.
+
+**[Get started from $8/mo →](https://pinchkit.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=vercel)**
+
+Or keep reading to install it yourself 👇
+
 ## Features
 
 ### 🚀 Project Management
