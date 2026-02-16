@@ -1,0 +1,15 @@
+{
+  "name": "vercel",
+  "displayName": "Vercel",
+  "description": "Deploy and manage applications on Vercel platform",
+  "version": "1.0.0",
+  "author": "lobstash",
+  "envVars": [
+    {
+      "name": "VERCEL_TOKEN",
+      "description": "Personal access token for Vercel API authentication",
+      "required": true
+    }
+  ],
+  "postInstall": "npm install"
+}
